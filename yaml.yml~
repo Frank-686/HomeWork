@@ -1,3 +1,4 @@
 api1: http://apis.baidu.com/3023/apple/apple
+#api1: https://api.github.com/user
 api2: http://gc.ditu.aliyun.com/regeocoding?l=39.938133,116.395739&type=001
 api3: http://ip.taobao.com/service/getIpInfo.php?ip=63.223.108.42
