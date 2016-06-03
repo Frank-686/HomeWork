@@ -20,7 +20,7 @@ def test
         end
       end
     }
-    sleep 10
+    sleep 5
     ss.join
   end
 end
